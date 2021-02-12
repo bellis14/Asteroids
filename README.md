@@ -12,6 +12,6 @@ of incoming asteroids
 * Game over when the lives count reaches zero
 
 ### Asteroids Game in Action
-![](images/asteroids_in_game.png)
-![](images/asteroids_game_over.png)
-![](images/asteroids_losing_lifes.png)
+![](images/GamePlay.png)
+![](images/GameOver.png)
+![](images/LosingLives.png)
