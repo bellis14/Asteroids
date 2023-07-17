@@ -11,6 +11,8 @@ the ship blinks to let the user know that they have some time to get out of the 
 of incoming asteroids 
 * Game over when the lives count reaches zero
 
+Disclaimer: This was a school project so some of the code is provided as helpers from other professors. Files not authored by anyone are my own. 
+
 ### Asteroids Game in Action
 ![](images/GamePlay.png)
 ![](images/GameOver.png)
